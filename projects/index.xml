@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on gbl08ma</title>
-    <link>https://gbl08ma.github.com/projects/index.xml</link>
+    <link>https://gbl08ma.github.io/projects/index.xml</link>
     <description>Recent content in Projects on gbl08ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gbl08ma.github.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gbl08ma.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clouttery</title>
-      <link>https://gbl08ma.github.com/projects/clouttery/</link>
+      <link>https://gbl08ma.github.io/projects/clouttery/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/clouttery/</guid>
+      <guid>https://gbl08ma.github.io/projects/clouttery/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://clouttery.xyz&#34;&gt;&lt;img src=&#34;https://clouttery.xyz/static/headerlogo.png&#34; alt=&#34;Clouttery logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://clouttery.xyz&#34;&gt;Go to the website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Eigenmath</title>
-      <link>https://gbl08ma.github.com/projects/eigenmath/</link>
+      <link>https://gbl08ma.github.io/projects/eigenmath/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/eigenmath/</guid>
+      <guid>https://gbl08ma.github.io/projects/eigenmath/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/eigenmath&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=9419&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A port of the Eigenmath symbolic math engine to the fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators.&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Image Viewer</title>
-      <link>https://gbl08ma.github.com/projects/imageviewer/</link>
+      <link>https://gbl08ma.github.io/projects/imageviewer/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/imageviewer/</guid>
+      <guid>https://gbl08ma.github.io/projects/imageviewer/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/imageviewer&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=8650&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;An image viewer for the fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators.&lt;/p&gt;
@@ -63,10 +63,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://gbl08ma.github.com/projects/projects/</link>
+      <link>https://gbl08ma.github.io/projects/projects/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/projects/</guid>
+      <guid>https://gbl08ma.github.io/projects/projects/</guid>
       <description>
 
 &lt;p&gt;Some of my projects are unoriginal, others are original but not very useful, and a big number of them never get to be more than good intentions. Some of my ideas are so ambitious that I never find enough time or motivation to work on them. Sometimes, the problem they were trying to solve ends up not being a problem at all, or at some point I find out someone came up with a much better solution. In other words, your average programmer dilemmas.&lt;/p&gt;
@@ -76,8 +76,8 @@
 &lt;h1 id=&#34;major-projects&#34;&gt;Major projects&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.com/projects/clouttery&#34;&gt;Clouttery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.com/projects/tnyim&#34;&gt;tny.im shortener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/clouttery&#34;&gt;Clouttery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/tnyim&#34;&gt;tny.im shortener&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;add-ins-for-the-casio-fx-cg-10-and-20&#34;&gt;Add-ins for the Casio fx-CG 10 and 20&lt;/h2&gt;
@@ -85,9 +85,9 @@
 &lt;p&gt;For at least three years, the graphic calculator I used through high school was my main development target. I learned C and a lot about embedded systems and reverse-engineering (the calculator OS) in the process. This relatively insane dedication resulted in three major pieces of software for these calculators:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.com/projects/utilities&#34;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.com/projects/eigenmath&#34;&gt;Eigenmath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.com/projects/imageviewer&#34;&gt;Image Viewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/utilities&#34;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/eigenmath&#34;&gt;Eigenmath&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/imageviewer&#34;&gt;Image Viewer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I have &lt;a href=&#34;https://gbl08ma.com/casio-prizm-software/&#34;&gt;a page on my blog&lt;/a&gt; about these and other discontinued add-ins. I have moved on from fx-CG 20 development.&lt;/p&gt;
@@ -119,10 +119,10 @@
     
     <item>
       <title>Utilities</title>
-      <link>https://gbl08ma.github.com/projects/utilities/</link>
+      <link>https://gbl08ma.github.io/projects/utilities/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/utilities/</guid>
+      <guid>https://gbl08ma.github.io/projects/utilities/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/utilities&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=8245&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;An add-in for the Casio fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators that provides many tools, including:&lt;/p&gt;
@@ -130,7 +130,7 @@
 &lt;ul&gt;
 &lt;li&gt;a complete file manager, with file search, clipboard, compression (using the heatshrink lib)&amp;hellip;&lt;/li&gt;
 &lt;li&gt;text editor&lt;/li&gt;
-&lt;li&gt;image viewer (JPEG only, see also &lt;a href=&#34;https://gbl08ma.github.com/projects/imageviewer&#34;&gt;the complete, standalone version&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;image viewer (JPEG only, see also &lt;a href=&#34;https://gbl08ma.github.io/projects/imageviewer&#34;&gt;the complete, standalone version&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;calendar (with events, event search, month, week and day views&amp;hellip;)&lt;/li&gt;
 &lt;li&gt;chronometer&lt;/li&gt;
 &lt;/ul&gt;
@@ -145,10 +145,10 @@
     
     <item>
       <title>tny.im shortener</title>
-      <link>https://gbl08ma.github.com/projects/tnyim/</link>
+      <link>https://gbl08ma.github.io/projects/tnyim/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gbl08ma.github.com/projects/tnyim/</guid>
+      <guid>https://gbl08ma.github.io/projects/tnyim/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://tny.im&#34;&gt;&lt;img src=&#34;https://tny.im/tnyimimages/headerlogo.png?v=v7rev86&#34; alt=&#34;tny.im logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tny.im&#34;&gt;Go to the website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
