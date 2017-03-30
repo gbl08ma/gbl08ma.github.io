@@ -10,7 +10,15 @@
 <meta name="referrer" content="no-referrer">
 <meta name="description" content="gbl08ma&#39;s project index">
 
-<base href="https://gbl08ma.github.io/">
+
+    <meta property="twitter:site" content="@https://twitter.com/gbl08ma">
+
+<meta property="twitter:title" content="Projects">
+
+    <meta property="twitter:card" content="summary">
+
+<meta property="twitter:description" content="">
+
 <title>
 
 
@@ -20,12 +28,14 @@
 <link rel="canonical" href="https://gbl08ma.github.io/projects/projects/">
 
 
+<link rel="stylesheet" href="https://gbl08ma.github.io/css/main.v0.9.1.css">
+<link rel="stylesheet" href="https://gbl08ma.github.io/css/ionicons.min.css">
 
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/default.min.css">
+
+  <link rel="stylesheet" href="https://gbl08ma.github.io/css/highlight.min.css">
 
 
-<link rel="stylesheet" href="https://gbl08ma.github.io/css/reset.css">
-<link rel="stylesheet" href="https://gbl08ma.github.io/css/main.css">
+
 
 
 
@@ -38,16 +48,17 @@
 
 
 
+
 </head>
 
 
-<body lang="en">
+<body>
 
 
-<section class="header"> 
+<section class="header">
 
     <div class="container">
-        <a href="https://gbl08ma.github.io/"><img class="logo" src="https://gbl08ma.github.io/img/logo.png" /></a>
+        <a href="https://gbl08ma.github.io/"><img class="logo" src="https://gbl08ma.github.io/img/logo.png" alt="logo" /></a>
         <div class="content">
             <a href="https://gbl08ma.github.io/"><div class="name"><h1>gbl08ma</h1></div></a>
             <nav>
@@ -58,7 +69,7 @@
                     
                         
                             
-                            <a href="projects"><li>projects</li></a>
+                            <a href="https://gbl08ma.github.io/projects"><li>projects</li></a>
                             
                         
                     
@@ -79,39 +90,6 @@
     </div>
 </section>
 
-<section class="icons">
-    <div class="container">
-        <div class="content">
-
-        
-            <a href="https://github.com/gbl08ma" target="_blank">
-                <i class="icon ion-social-github"></i>
-            </a>
-        
-        
-        
-            <a href="https://twitter.com/gbl08ma" target="_blank">
-                <i class="icon ion-social-twitter"></i>
-            </a>
-        
-
-        
-
-        
-            <a href="mailto:gabriel@tny.im">
-                <i class="icon ion-ios-email larger"></i>
-            </a>
-        
-
-        
-            <a href="https://gbl08ma.github.io/index.xml">
-                <i class="icon ion-social-rss larger"></i>
-            </a>
-        
-        </div>
-    </div>
-</section>
-
 <section class="main">
     <div class="container">
         <div class="content">
@@ -123,6 +101,7 @@
 
             <div class="markdown">
                 
+    
 
 <p>Some of my projects are unoriginal, others are original but not very useful, and a big number of them never get to be more than good intentions. Some of my ideas are so ambitious that I never find enough time or motivation to work on them. Sometimes, the problem they were trying to solve ends up not being a problem at all, or at some point I find out someone came up with a much better solution. In other words, your average programmer dilemmas.</p>
 
@@ -150,6 +129,7 @@
 <h1 id="smaller-projects">Smaller projects</h1>
 
 <ul>
+<li><a href="https://perturbacoes.gbl08ma.com">Disturbances / Perturbações</a> - fancy status page and status logger for the Lisbon Metro, that scrapes the official website for information. It&rsquo;s <a href="https://github.com/gbl08ma/disturbancesmlx">on GitHub</a>.</li>
 <li><a href="https://dotaccount.tny.im">dotAccount</a> - a single sign-on service for my websites. I took CubicleSoft&rsquo;s SSO system, configured it to match my needs, redesigned the UI to be much nicer, and in the end added some convenience features, such as the ability to sign in using one-time email codes.</li>
 <li><a href="http://goshify.tny.im/">Goshify</a> - kind of a markdown pastebin that can only be used through its API. It&rsquo;s <a href="https://github.com/tnyim/goshify">on GitHub</a>.</li>
 <li><a href="https://prizmid.tny.im/">PrizmID</a> - related to my calculator craze, this is basically a fancy online survey about these calculator models.</li>
@@ -170,19 +150,65 @@
 <li>and many others I can&rsquo;t even remember&hellip;</li>
 </ul>
 
+
             </div>
         </div>
     </div>
 </section>
+<section class="footer">
+    <div class="container">
+        <div class="copyright">
 
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+        
+
+        </div>
+        <div class="icons">
+
+        
+            <a href="https://github.com/https://github.com/gbl08ma" target="_blank">
+                <i class="icon ion-social-github" title="github"></i>
+            </a>
+        
+
+        
+            <a href="https://twitter.com/https://twitter.com/gbl08ma" target="_blank">
+                <i class="icon ion-social-twitter" title="twitter"></i>
+            </a>
+        
+
+        
+
+        
+            <a href="mailto:gabriel@tny.im">
+                <i class="icon ion-ios-email larger" title="email"></i>
+            </a>
+        
+
+        
+            <a href="https://gbl08ma.github.io/index.xml">
+                <i class="icon ion-social-rss larger" title="rss"></i>
+            </a>
+        
+
+        </div>
+    </div>
+</section>
+
+
+  <script src="https://gbl08ma.github.io/js/highlight.min.js" defer></script>
   
 
-  <script type="text/javascript">
-    hljs.initHighlightingOnLoad();
-  </script>
 
 
+
+<script>
+  window.onload = function() {
+    
+      hljs.initHighlighting();
+    
+    
+  };
+</script>
 
 </body>
 </html>

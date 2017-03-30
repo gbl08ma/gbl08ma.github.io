@@ -95,6 +95,7 @@
 &lt;h1 id=&#34;smaller-projects&#34;&gt;Smaller projects&lt;/h1&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://perturbacoes.gbl08ma.com&#34;&gt;Disturbances / Perturbações&lt;/a&gt; - fancy status page and status logger for the Lisbon Metro, that scrapes the official website for information. It&amp;rsquo;s &lt;a href=&#34;https://github.com/gbl08ma/disturbancesmlx&#34;&gt;on GitHub&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dotaccount.tny.im&#34;&gt;dotAccount&lt;/a&gt; - a single sign-on service for my websites. I took CubicleSoft&amp;rsquo;s SSO system, configured it to match my needs, redesigned the UI to be much nicer, and in the end added some convenience features, such as the ability to sign in using one-time email codes.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://goshify.tny.im/&#34;&gt;Goshify&lt;/a&gt; - kind of a markdown pastebin that can only be used through its API. It&amp;rsquo;s &lt;a href=&#34;https://github.com/tnyim/goshify&#34;&gt;on GitHub&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://prizmid.tny.im/&#34;&gt;PrizmID&lt;/a&gt; - related to my calculator craze, this is basically a fancy online survey about these calculator models.&lt;/li&gt;
