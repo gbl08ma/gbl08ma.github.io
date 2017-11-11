@@ -2,12 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gbl08ma</title>
-    <link>https://gbl08ma.github.io/index.xml</link>
+    <link>https://gbl08ma.github.io/</link>
     <description>Recent content on gbl08ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gbl08ma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gbl08ma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UnderLX</title>
+      <link>https://gbl08ma.github.io/projects/underlx/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://gbl08ma.github.io/projects/underlx/</guid>
+      <description>Go to the Google Play page
+GitHub repo
+An unofficial Android app for the Lisbon Metro. The long-term goal is to become the only Lisbon Metro app users will ever need, and perhaps most importantly, the one they&amp;rsquo;ll want to have. This app introduces a number of features not usually seen on transit apps, such as real-time location, service quality indicators, and a strong collaborative component.
+In a symbiotic relationship with the app, I also built the &amp;ldquo;Perturbações&amp;rdquo; (&amp;ldquo;Disturbances&amp;rdquo;) website.</description>
+    </item>
     
     <item>
       <title>Clouttery</title>
@@ -15,16 +29,8 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/clouttery/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://clouttery.xyz&#34;&gt;&lt;img src=&#34;https://clouttery.xyz/static/headerlogo.png&#34; alt=&#34;Clouttery logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://clouttery.xyz&#34;&gt;Go to the website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A battery monitoring web service. It lets you see the battery history for all of your devices in one place, and you can get notifications about the batteries. Using Go, C#, Java and Python, I built a custom backend and website, &lt;a href=&#34;https://clouttery.xyz/apps&#34;&gt;clients&lt;/a&gt; for Windows, Android and Linux, and even a billing system&amp;hellip; it&amp;rsquo;s one of those ambitious projects that always feels 10% done. &lt;em&gt;So many ideas, so little time&amp;hellip;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Because this project actually encompasses multiple ones (clients, server, website, user documentation&amp;hellip;), there&amp;rsquo;s always something to do, so even if I get tired of working on one part, I can just move to another one, in a different language, with different tools.&lt;/p&gt;
-
-&lt;p&gt;At least certain parts will be open-sourced, eventually. Especially if I decide to give up on this project.&lt;/p&gt;
-</description>
+      <description>Go to the website
+A battery monitoring web service. It lets you see the battery history for all of your devices in one place, and you can get notifications about the batteries. Using Go, C#, Java and Python, I built a custom backend and website, clients for Windows, Android and Linux, and even a billing system&amp;hellip; it&amp;rsquo;s one of those ambitious projects that always feels 10% done. So many ideas, so little time&amp;hellip;</description>
     </item>
     
     <item>
@@ -33,16 +39,9 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/eigenmath/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/eigenmath&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=9419&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A port of the Eigenmath symbolic math engine to the fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators.&lt;/p&gt;
-
-&lt;p&gt;I built all of the UI, which is a console with many bells and whistles to make it usable on the calculator&amp;rsquo;s keyboard and screen. I also had to dive in the internals of the engine to fix some bugs, optimize the memory usage and implement expression pretty-printing and function graphing (it&amp;rsquo;s a graphic calc, after all!).&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t have a fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt;, you can still take a look at the &lt;a href=&#34;https://github.com/gbl08ma/eigenmath/wiki/Usage-instructions&#34;&gt;pictures in the manual&lt;/a&gt; to see what it is about.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://s.lowendshare.com/7/1408732671.705.im1.png&#34; alt=&#34;screenshot&#34; /&gt; &lt;img src=&#34;http://s.lowendshare.com/7/1408733513.528.rfesd.png&#34; alt=&#34;screenshot&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>See on GitHub | Discussion thread at Cemetech
+A port of the Eigenmath symbolic math engine to the fx-CG 10&amp;frasl;20 calculators.
+I built all of the UI, which is a console with many bells and whistles to make it usable on the calculator&amp;rsquo;s keyboard and screen. I also had to dive in the internals of the engine to fix some bugs, optimize the memory usage and implement expression pretty-printing and function graphing (it&amp;rsquo;s a graphic calc, after all!</description>
     </item>
     
     <item>
@@ -51,14 +50,9 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/imageviewer/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/imageviewer&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=8650&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;An image viewer for the fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators.&lt;/p&gt;
-
-&lt;p&gt;I took libpng and ChaN&amp;rsquo;s JPEG decoding library, made small tweaks so things were a bit faster on the calculator&amp;rsquo;s limited CPU and memory, and designed an appropriate user interface. I didn&amp;rsquo;t write much code and it&amp;rsquo;s nothing particularly novel, however, of my add-ins, this is probably the most popular one in online calculator communities - sometimes, the simplest things are enough to satisfy the needs of the users.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://s.lowendshare.com/8/1409922802.253.fb.png&#34; alt=&#34;screenshot&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>See on GitHub | Discussion thread at Cemetech
+An image viewer for the fx-CG 10&amp;frasl;20 calculators.
+I took libpng and ChaN&amp;rsquo;s JPEG decoding library, made small tweaks so things were a bit faster on the calculator&amp;rsquo;s limited CPU and memory, and designed an appropriate user interface. I didn&amp;rsquo;t write much code and it&amp;rsquo;s nothing particularly novel, however, of my add-ins, this is probably the most popular one in online calculator communities - sometimes, the simplest things are enough to satisfy the needs of the users.</description>
     </item>
     
     <item>
@@ -67,55 +61,7 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/projects/</guid>
-      <description>
-
-&lt;p&gt;Some of my projects are unoriginal, others are original but not very useful, and a big number of them never get to be more than good intentions. Some of my ideas are so ambitious that I never find enough time or motivation to work on them. Sometimes, the problem they were trying to solve ends up not being a problem at all, or at some point I find out someone came up with a much better solution. In other words, your average programmer dilemmas.&lt;/p&gt;
-
-&lt;p&gt;When I really like a project of mine, I tend to spend a lot of time on it, often leaving my other projects and &lt;em&gt;good intentions&lt;/em&gt; behind. Sometimes, that results in a relatively polished product; other times, just feature creep. At some point I stop enjoying working on one project as much as I did, and I put it aside - and sometimes leave it there for eternity&amp;hellip;&lt;/p&gt;
-
-&lt;h1 id=&#34;major-projects&#34;&gt;Major projects&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/clouttery&#34;&gt;Clouttery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/tnyim&#34;&gt;tny.im shortener&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;add-ins-for-the-casio-fx-cg-10-and-20&#34;&gt;Add-ins for the Casio fx-CG 10 and 20&lt;/h2&gt;
-
-&lt;p&gt;For at least three years, the graphic calculator I used through high school was my main development target. I learned C and a lot about embedded systems and reverse-engineering (the calculator OS) in the process. This relatively insane dedication resulted in three major pieces of software for these calculators:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/utilities&#34;&gt;Utilities&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/eigenmath&#34;&gt;Eigenmath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.github.io/projects/imageviewer&#34;&gt;Image Viewer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I have &lt;a href=&#34;https://gbl08ma.com/casio-prizm-software/&#34;&gt;a page on my blog&lt;/a&gt; about these and other discontinued add-ins. I have moved on from fx-CG 20 development.&lt;/p&gt;
-
-&lt;h1 id=&#34;smaller-projects&#34;&gt;Smaller projects&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://perturbacoes.gbl08ma.com&#34;&gt;Disturbances / Perturbações&lt;/a&gt; - fancy status page and status logger for the Lisbon Metro, that scrapes the official website for information. It&amp;rsquo;s &lt;a href=&#34;https://github.com/gbl08ma/disturbancesmlx&#34;&gt;on GitHub&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dotaccount.tny.im&#34;&gt;dotAccount&lt;/a&gt; - a single sign-on service for my websites. I took CubicleSoft&amp;rsquo;s SSO system, configured it to match my needs, redesigned the UI to be much nicer, and in the end added some convenience features, such as the ability to sign in using one-time email codes.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://goshify.tny.im/&#34;&gt;Goshify&lt;/a&gt; - kind of a markdown pastebin that can only be used through its API. It&amp;rsquo;s &lt;a href=&#34;https://github.com/tnyim/goshify&#34;&gt;on GitHub&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://prizmid.tny.im/&#34;&gt;PrizmID&lt;/a&gt; - related to my calculator craze, this is basically a fancy online survey about these calculator models.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tnyim/upcachet&#34;&gt;Upcachet&lt;/a&gt; - a bridge between Cachet (a status page system) and Uptime Robot, currently used to update &lt;a href=&#34;http://status.tny.im&#34;&gt;this status page&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.com&#34;&gt;My blog&lt;/a&gt; - meh, yet another Wordpress blog. When the stars align right, I feel a sudden urge to post something there.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://i.tny.im/&#34;&gt;TNY network website&lt;/a&gt; - Wordpress-powered website about the brand that encompasses projects built by me and my friends. The auth system was customized, through a plugin, to support dotAccount.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://segvault.tny.im/&#34;&gt;Segvault&lt;/a&gt; - Like the above, except Segvault is more &amp;ldquo;mine&amp;rdquo; than TNY network&amp;hellip; &lt;a href=&#34;https://i.tny.im/?p=552&#34;&gt;read&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;I have also developed the firmware for a ESP8226-based curtain controller, to connect my home curtains to the home network, and for a ESP8266-based remote controller, for controlling said curtains and other home appliances. This is likely going to be open-sourced soon&amp;trade;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;defunct-projects&#34;&gt;Defunct projects&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gbl08ma.com/distributed-systems-and-mersit-a-tiny-server-redundancy-manager/&#34;&gt;Mersit&lt;/a&gt; and &lt;a href=&#34;https://github.com/tnyim/picored&#34;&gt;PicoRed&lt;/a&gt; - me dabbling in distributed systems for server redundancy management. Read: &lt;a href=&#34;https://gbl08ma.com/distributed-systems-and-mersit-a-tiny-server-redundancy-manager/&#34;&gt;one&lt;/a&gt;, &lt;a href=&#34;https://gbl08ma.com/the-stack-powering-tny-im-goodbye-redundancy-the-end-of-an-era/&#34;&gt;two&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://goonabrowser.sourceforge.net/en/index.html&#34;&gt;Goona Browser&lt;/a&gt; - 14-year-old-me would be extremely proud if you clicked that link. But the present-time-me is extremely ashamed of his younger self and asks that you please don&amp;rsquo;t go there. Jokes (and terrible &lt;em&gt;English&lt;/em&gt;) apart, this was my first big .NET project - my other big one is the much nicer Clouttery client for Windows. And in case you are wondering, Goona Browser actually allowed for browsing the web with Gecko and WebKit, and you could go from one rendering engine to another with a couple of clicks.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;n.irc.su&lt;/strong&gt; - another from the Goona Browser era, a Elgg-based &amp;ldquo;social&amp;rdquo; network. Fortunately it&amp;rsquo;s been offline for long.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;iDoUpload&lt;/strong&gt; - from the Goona-era (or earlier) some sort of file hosting website? I barely remember what it was, and in fact it only came to my mind because apparently I still have the logo I designed on my old hard disk.&lt;/li&gt;
-&lt;li&gt;and many others I can&amp;rsquo;t even remember&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Some of my projects are unoriginal, others are original but not very useful, and a big number of them never get to be more than good intentions. Some of my ideas are so ambitious that I never find enough time or motivation to work on them. Sometimes, the problem they were trying to solve ends up not being a problem at all, or at some point I find out someone came up with a much better solution.</description>
     </item>
     
     <item>
@@ -124,24 +70,9 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/utilities/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/gbl08ma/utilities&#34;&gt;See on GitHub&lt;/a&gt;&lt;/strong&gt; | &lt;a href=&#34;https://www.cemetech.net/forum/viewtopic.php?t=8245&#34;&gt;Discussion thread at Cemetech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;An add-in for the Casio fx-CG &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; calculators that provides many tools, including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a complete file manager, with file search, clipboard, compression (using the heatshrink lib)&amp;hellip;&lt;/li&gt;
-&lt;li&gt;text editor&lt;/li&gt;
-&lt;li&gt;image viewer (JPEG only, see also &lt;a href=&#34;https://gbl08ma.github.io/projects/imageviewer&#34;&gt;the complete, standalone version&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;calendar (with events, event search, month, week and day views&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;chronometer&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;hellip;and much more. I even glued in a scripting engine (PicoC, not my creation) so that other people could use my own UI toolkit and helper functions, combining all of the code contained in Utilities as they please.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s possibly the least popular of my calculator programs, but the one that contains the most original code and the one I enjoyed developing the most.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://s.lowendshare.com/5/1466540490.763.files.png&#34; alt=&#34;File manager screenshot&#34; /&gt; &lt;img src=&#34;http://s.lowendshare.com/5/1466540514.979.calendar.png&#34; alt=&#34;Calendar screenshot&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>See on GitHub | Discussion thread at Cemetech
+An add-in for the Casio fx-CG 10&amp;frasl;20 calculators that provides many tools, including:
+ a complete file manager, with file search, clipboard, compression (using the heatshrink lib)&amp;hellip; text editor image viewer (JPEG only, see also the complete, standalone version) calendar (with events, event search, month, week and day views&amp;hellip;) chronometer  &amp;hellip;and much more. I even glued in a scripting engine (PicoC, not my creation) so that other people could use my own UI toolkit and helper functions, combining all of the code contained in Utilities as they please.</description>
     </item>
     
     <item>
@@ -150,12 +81,8 @@
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/projects/tnyim/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://tny.im&#34;&gt;&lt;img src=&#34;https://tny.im/tnyimimages/headerlogo.png?v=v7rev86&#34; alt=&#34;tny.im logo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tny.im&#34;&gt;Go to the website&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A website that takes URLs, email addresses, lists of links, text snippets, etc. and gives a short URL for them. It&amp;rsquo;s based on YOURLS, but I build a huge shell around it, with everything that makes it more than a URL shortener. No plans to open-source it - it&amp;rsquo;s a giant mess of PHP code which I only touch for security fixes.&lt;/p&gt;
-</description>
+      <description>Go to the website
+A website that takes URLs, email addresses, lists of links, text snippets, etc. and gives a short URL for them. It&amp;rsquo;s based on YOURLS, but I build a huge shell around it, with everything that makes it more than a URL shortener. No plans to open-source it - it&amp;rsquo;s a giant mess of PHP code which I only touch for security fixes.</description>
     </item>
     
     <item>
@@ -164,33 +91,8 @@
       <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/about/</guid>
-      <description>
-
-&lt;p&gt;&lt;code&gt;gbl08ma&lt;/code&gt; is the awkward username that I, a 20 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I&amp;rsquo;m extremely traceable - go ahead and Google me.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more. I have been doing this for the last&amp;hellip; five years? Make that nine years if you count completely useless beginner projects. If you are &lt;em&gt;really&lt;/em&gt; interested in knowing more, I wrote &lt;a href=&#34;https://gbl08ma.com/my-programming-experience/&#34;&gt;a lengthy post about it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t do this for a living, yet. I&amp;rsquo;m just a broke student, currently pursuing a degree on information systems and computer engineering at &lt;a href=&#34;http://tecnico.ulisboa.pt&#34;&gt;Técnico Lisboa&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I have a bit of experience in systems administration, after maintaining my own Linux servers for the past five years (as well as my local machines, for longer). And because the things I make need logos and advertising materials, I&amp;rsquo;m my own poor man&amp;rsquo;s graphic designer. Very rarely, I also dabble in sound design.&lt;/p&gt;
-
-&lt;p&gt;I like working alone, but I think it would be great to find other people to work on side projects with me. First there was &lt;em&gt;tny. internet media&lt;/em&gt;, now &lt;a href=&#34;http://segvault.tny.im&#34;&gt;&lt;em&gt;Segvault&lt;/em&gt;&lt;/a&gt;&amp;hellip; I never actively tried to find people with matching interests in terms of software to develop, and my current team members aren&amp;rsquo;t too interested. So, we&amp;rsquo;re open to getting more people onboard. Drop me a line if you&amp;rsquo;re interested.&lt;/p&gt;
-
-&lt;h2 id=&#34;trivia&#34;&gt;Trivia&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;OS of choice: Debian on the server, Arch Linux on the desktop, Android on the phone (last resource choice&amp;hellip;), Windows on the Surface (heh).&lt;/li&gt;
-&lt;li&gt;Programming language of choice: it depends on the situation, obviously. But Go, C# and C cover most cases.&lt;/li&gt;
-&lt;li&gt;Keyboard layout of choice: QWERTY, the most plug-and-play layout.&lt;/li&gt;
-&lt;li&gt;Text editor of choice: For .NET code (C#, mostly), Visual Studio. For huge files, head and tail or Sublime Text. For everything else, VS Code. Vi: I know how to insert text, delete whole lines, save and exit, and exit without saving&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Browser of choice: Chrome or anything Blink-based. Unlike some people I know, I don&amp;rsquo;t like having over 100 tabs open at once, so the memory usage doesn&amp;rsquo;t bother me.&lt;/li&gt;
-&lt;li&gt;Messaging system of choice: email, and for IM my choice of the week is &lt;a href=&#34;https://riot.im/&#34;&gt;Matrix/Riot&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;this-website-s-stack&#34;&gt;This website&amp;rsquo;s stack&lt;/h2&gt;
-
-&lt;p&gt;For this one, I went the easy route and used a static site generator, &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, with a &lt;a href=&#34;https://github.com/gbl08ma/cocoa-eh-hugo-theme&#34;&gt;tweaked theme&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>gbl08ma is the awkward username that I, a 20 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I&amp;rsquo;m extremely traceable - go ahead and Google me.
+I&amp;rsquo;m a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more. I have been doing this for the last&amp;hellip; five years?</description>
     </item>
     
     <item>
@@ -199,27 +101,14 @@
       <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/contact/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t bite.&lt;/p&gt;
-
-&lt;p&gt;You can reach me at one of my email addresses:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;gabriel&lt;/code&gt; at &lt;code&gt;tny.im&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;gbl08ma&lt;/code&gt; at &lt;code&gt;gmail.com&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&amp;hellip;or through matrix.org: &lt;code&gt;@gbl08ma:matrix.org&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;or in 140 characters or less: &lt;a href=&#34;https://twitter.com/gbl08ma&#34;&gt;https://twitter.com/gbl08ma&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;or through Telegram: search for gbl08ma&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;or through Discord: &lt;code&gt;gbl08ma#3988&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;or through Skype: search for gbl08ma&lt;/p&gt;
-
-&lt;p&gt;If somehow everything else fails and you have a contact form fetish, I have &lt;a href=&#34;https://gbl08ma.com/contact-me/&#34;&gt;got you covered&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>I don&amp;rsquo;t bite.
+You can reach me at one of my email addresses:
+ gabriel at tny.im gbl08ma at gmail.com  &amp;hellip;or through matrix.org: @gbl08ma:matrix.org
+&amp;hellip;or in 140 characters or less: https://twitter.com/gbl08ma
+&amp;hellip;or through Telegram: search for gbl08ma
+&amp;hellip;or through Discord: gbl08ma#3988
+&amp;hellip;or through Skype: search for gbl08ma
+If somehow everything else fails and you have a contact form fetish, I have got you covered.</description>
     </item>
     
     <item>
@@ -228,12 +117,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gbl08ma.github.io/home/</guid>
-      <description>&lt;p&gt;Hey there! I&amp;rsquo;m a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more.&lt;/p&gt;
-
-&lt;p&gt;This website is where I list the stuff I work on and that may not be on &lt;a href=&#34;https://github.com/gbl08ma&#34;&gt;my GitHub profile&lt;/a&gt;. I also have &lt;a href=&#34;https://gbl08ma.com/&#34;&gt;a blog&lt;/a&gt; where, once in a blue moon, I uninspiredly write uninspiring posts and rants about either stuff I&amp;rsquo;m working on, or things that are happening.&lt;/p&gt;
-
-&lt;p&gt;If you&amp;rsquo;re still with me, you can move on to the &lt;a href=&#34;https://gbl08ma.github.io/projects&#34;&gt;projects list&lt;/a&gt;, or read more &lt;a href=&#34;https://gbl08ma.github.io/about&#34;&gt;about me&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>Hey there! I&amp;rsquo;m a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more.
+This website is where I list the stuff I work on and that may not be on my GitHub profile. I also have a blog where, once in a blue moon, I uninspiredly write uninspiring posts and rants about either stuff I&amp;rsquo;m working on, or things that are happening.</description>
     </item>
     
   </channel>
