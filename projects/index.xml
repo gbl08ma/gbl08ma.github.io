@@ -40,7 +40,7 @@ A battery monitoring web service. It lets you see the battery history for all of
       
       <guid>https://gbl08ma.github.io/projects/eigenmath/</guid>
       <description>See on GitHub | Discussion thread at Cemetech
-A port of the Eigenmath symbolic math engine to the fx-CG 10&amp;frasl;20 calculators.
+A port of the Eigenmath symbolic math engine to the fx-CG 10 / 20 calculators.
 I built all of the UI, which is a console with many bells and whistles to make it usable on the calculator&amp;rsquo;s keyboard and screen. I also had to dive in the internals of the engine to fix some bugs, optimize the memory usage and implement expression pretty-printing and function graphing (it&amp;rsquo;s a graphic calc, after all!</description>
     </item>
     
@@ -51,7 +51,7 @@ I built all of the UI, which is a console with many bells and whistles to make i
       
       <guid>https://gbl08ma.github.io/projects/imageviewer/</guid>
       <description>See on GitHub | Discussion thread at Cemetech
-An image viewer for the fx-CG 10&amp;frasl;20 calculators.
+An image viewer for the fx-CG 10 / 20 calculators.
 I took libpng and ChaN&amp;rsquo;s JPEG decoding library, made small tweaks so things were a bit faster on the calculator&amp;rsquo;s limited CPU and memory, and designed an appropriate user interface. I didn&amp;rsquo;t write much code and it&amp;rsquo;s nothing particularly novel, however, of my add-ins, this is probably the most popular one in online calculator communities - sometimes, the simplest things are enough to satisfy the needs of the users.</description>
     </item>
     
@@ -71,7 +71,7 @@ I took libpng and ChaN&amp;rsquo;s JPEG decoding library, made small tweaks so t
       
       <guid>https://gbl08ma.github.io/projects/utilities/</guid>
       <description>See on GitHub | Discussion thread at Cemetech
-An add-in for the Casio fx-CG 10&amp;frasl;20 calculators that provides many tools, including:
+An add-in for the Casio fx-CG 10 / 20 calculators that provides many tools, including:
  a complete file manager, with file search, clipboard, compression (using the heatshrink lib)&amp;hellip; text editor image viewer (JPEG only, see also the complete, standalone version) calendar (with events, event search, month, week and day views&amp;hellip;) chronometer  &amp;hellip;and much more. I even glued in a scripting engine (PicoC, not my creation) so that other people could use my own UI toolkit and helper functions, combining all of the code contained in Utilities as they please.</description>
     </item>
     
