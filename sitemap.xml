@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gbl08ma.github.io/contact/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gbl08ma.github.io/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gbl08ma.github.io/projects/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gbl08ma.github.io/projects/underlx/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
   </url>
@@ -43,11 +60,6 @@
   </url>
   
   <url>
-    <loc>https://gbl08ma.github.io/contact/</loc>
-    <lastmod>2017-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gbl08ma.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -57,19 +69,7 @@
   </url>
   
   <url>
-    <loc>https://gbl08ma.github.io/projects/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gbl08ma.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gbl08ma.github.io/</loc>
-    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
